@@ -1,2 +1,2 @@
 ### Hi, I'm Beknazar
-<iframe src="https://giphy.com/embed/E89xxATM4iZoPdr6Tb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-google-googleio-googledevs-E89xxATM4iZoPdr6Tb">via GIPHY</a></p>
+<img src"https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47lmphlm7129f7vka4ww1jkngoobm6pwdwqqdf73eo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
