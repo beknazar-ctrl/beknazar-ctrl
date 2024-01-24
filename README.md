@@ -1,2 +1,2 @@
 ### Hi, I'm Beknazar
-<img src"https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47lmphlm7129f7vka4ww1jkngoobm6pwdwqqdf73eo&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+![giphy](https://github.com/beknazar-ctrl/beknazar-ctrl/assets/76398513/d3df16cf-1f84-41cc-b86a-9e16ee025f9e)
